@@ -1,0 +1,24 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Zuri Foundation
+tagline:          'Helps young people break out of poverty'
+url:              http://zurifoundation.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Neil Gabriel
+  url:            
+  email:          njgabriel@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           github.com/zurifoundation/zurifoundation.github.io
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'Donate':'/donate','Participate':'/Participate','Our Work':'/our-work','About':'/about'}
+
+
